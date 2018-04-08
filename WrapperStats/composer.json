@@ -1,0 +1,30 @@
+{
+    "name": "pwg/WrapperStats",
+    "type": "phpbb-extension",
+    "description": "Расширение выводит единый блок разделённый на вкладки «Сейчас на форумах», «Статистика посещений», «Дни рождения» на главной странице форумов.",
+    "homepage": "https://github.com/PWG-Extension/WrapperStats",
+    "keywords": ["PWG", "phpBB3", "Wrapper", "Stats", "statistics", "tabs", "who-is-online", "birthdays"],
+    "version": "1.0.0",
+    "time": "08.04.2018",
+    "license": "GNU GPL-2.0",
+    "authors": [
+        {
+            "name": "Alexander Kadnikoff [Predator]",
+            "homepage": "https://github.com/PWG-Extension",
+            "email": "None",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3 || ^7.0"
+    },
+    "require-dev": {
+      "phpbb/epv": "dev-master"
+    },
+    "extra": {
+        "display-name": "Wrapper Stats",
+        "soft-require": {
+        "phpbb/phpbb": ">=3.1.5, 3.2.*"
+        }
+    }
+}
