@@ -17,7 +17,7 @@
 
 Extension:		Wrapper Stats
 
-Description:	Extension displays a single block divided into the tabs "Who in online", "Statistics", "Birthdays".
+Description:	Extension displays a single block divided into the tabs "Who is online", "Statistics", "Birthdays".
 
 Version:		1.0.0 / 08.04.2018
 
